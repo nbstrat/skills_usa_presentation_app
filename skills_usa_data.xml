@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<slides>
+    <!-- flash runtime xml properties -->
+    <imagePath>_images/</imagePath>
+    <navXpos>1185</navXpos>
+    <navYpos>850</navYpos>
+    <tweenType></tweenType>
+    <tweenEase></tweenEase>
+    <categoryImagePosition_X>1060</categoryImagePosition_X>
+    <categoryImagePosition_Y>20</categoryImagePosition_Y>
+    <!-- end flash runtime properties -->
+    <slide>
+        <category>Action Skills</category>
+        <school>George County High School</school>
+        <student>fred bean</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>action_skills.jpg</image>
+        <id>0</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>break school</school>
+        <student>fred bean</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>1</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Harrison County Vo-Tech</school>
+        <student>student1 Price &#xD; student10 Mather &#xD; student11 Watson &#xD; student12 Seback &#xD; student2 McCarty &#xD; student3 Ellis &#xD; student4 Breazeale &#xD; student5 Pavon &#xD; student6 Winstead &#xD; student7 Silver &#xD; student8 Richey &#xD; student9 Parmer</student>
+        <school_level>S</school_level>
+        <team>123</team>
+        <award>Award1</award>
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>2</id>
+    </slide>
+    <slide>
+        <category>Industrial Motor Control</category>
+        <school>Mississippi Delta Community College</school>
+        <student>Steven Stewart &#xD; student2 Roundtree</student>
+        <school_level>PS</school_level>
+        <team>222</team>
+        <award />
+        <prize />
+        <image>ind_motor_control.jpg</image>
+        <id>14</id>
+    </slide>
+    <slide>
+        <category>Job Interview</category>
+        <school>Madison Career &amp; Technical Center</school>
+        <student>TJ Cornelison</student>
+        <school_level>S</school_level>
+        <team>333</team>
+        <award />
+        <prize />
+        <image>job_interview.jpg</image>
+        <id>16</id>
+    </slide>
+    <slide>
+        <category>Job Interview</category>
+        <school>Martin Luther King Career &amp; Tech </school>
+        <student>Demond McCoy &#xD; Lasonda Jones</student>
+        <school_level>S</school_level>
+        <team>333</team>
+        <award />
+        <prize />
+        <image>job_interview.jpg</image>
+        <id>17</id>
+    </slide>
+    <slide>
+        <category>Job Skill Demonstration A</category>
+        <school>Copiah-Lincoln  - Wesson</school>
+        <student>student1 Quince &#xD; student2 Thompson &#xD; student3 Busby &#xD; student4 Williams</student>
+        <school_level>PS</school_level>
+        <team>444</team>
+        <award>Award1</award>
+        <prize>true</prize>
+        <image>job_skills_demo.jpg</image>
+        <id>19</id>
+    </slide>
+    <slide>
+        <category>Job Skill Demonstration B</category>
+        <school>Pontotoc Ridge Career Technical Center</school>
+        <student>student1 Hefner &#xD; student2 Ray &#xD; student3 Katy &#xD; student4 Griffin &#xD; student5 SHINN</student>
+        <school_level>S</school_level>
+        <team>555</team>
+        <award>Award3</award>
+        <prize>true</prize>
+        <image>job_skills_demo.jpg</image>
+        <id>23</id>
+    </slide>
+    <slide>
+        <category>Major Appliance Technology</category>
+        <school>Hinds Career Center-Raymond </school>
+        <student>student1 Thomas &#xD; student2 Byron &#xD; student3 James &#xD; student4 Brown &#xD; student5 Taylor &#xD; student6 Evans</student>
+        <school_level>S</school_level>
+        <team>6</team>
+        <award>Award3</award>
+        <prize />
+        <image>appliance_tech.jpg</image>
+        <id>28</id>
+    </slide>
+    <slide>
+        <category>Masonry</category>
+        <school>Meridian Community College</school>
+        <student>student1 Nash &#xD; student2 Irwin &#xD; student3 Smitherman &#xD; student4 Johnson &#xD; student5 Walls &#xD; student6 Hulsey &#xD; student7 Garrett</student>
+        <school_level>PS</school_level>
+        <team>7</team>
+        <award />
+        <prize />
+        <image>masonry.jpg</image>
+        <id>34</id>
+    </slide>
+</slides>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<slides>
+
+	<!-- define base path for images in slideshow -->
+	<!-- include the trailing slash -->
+	<imagePath>_images/</imagePath>
+	
+     <!-- define x & y position of navigation-buttons -->
+	<navPrevXpos>685</navPrevXpos>
+	<navPrevYpos>550</navPrevYpos>
+	<navNextXpos>710</navNextXpos>
+	<navNextYpos>550</navNextYpos>
+
+    <!-- define x & y position of Category images -->
+	<categoryImagePosition_X>660</categoryImagePosition_X>
+	<categoryImagePosition_Y>20</categoryImagePosition_Y>
+	<categoryImageWidth>50</categoryImageWidth>
+	<categoryImageHeight>50</categoryImageHeight>
+
+<slide>
+		<category>1 Plumbing</category>
+		<category_image>plumbing.jpg</category_image>
+		<school>Jefferson community college</school>
+		<school_level>PS</school_level>
+		<student>Fred Bean </student>
+		<award>award_1.jpg</award>
+		<prize>check_mark.jpg</prize>
+	</slide>	
+
+<slide>
+		<category>2 HVAC</category>
+		<category_image>hvac.jpg</category_image>
+		<school>Rooselvelt High Schhol</school>
+		<school_level>S</school_level>
+		<student>Thomas Edison &#xD;Frank Jones</student>
+		<award />
+		<prize />
+	</slide>
+	
+	<slide>
+		<category>3 Web</category>
+		<category_image>web.jpg</category_image>
+		<school>Rooselvelt High Schhol</school>
+		<school_level>PS</school_level>
+		<student>Thomas Edison &#xD;Frank Jones</student>
+		<award>award_1.jpg</award>
+		<prize>check_mark.jpg</prize>
+	</slide>
+	
+	<slide>
+		<category>4 Talking</category>
+		<category_image>speaking.jpg</category_image>
+		<school>Rooselvelt High Schhol</school>
+		<school_level>S</school_level>
+		<student>Thomas Edison &#xD;Frank Jones</student>
+		<award />
+		<prize />
+	</slide>
+	
+	<slide>
+		<category>5ot Advertising Design</category>
+		<category_image>web.jpg</category_image>
+		<school>Rooselvelt High Schhol</school>
+		<school_level>PS</school_level>
+		<student>Thomas Edison &#xD;Frank Jones</student>
+		<award>award_1.jpg</award>
+		<prize />
+	</slide>
+
+</slides>

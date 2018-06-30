@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Skills USA Project Status</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <style type="text/css">
+    body {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 76%;
+	color: #000;
+	margin: 20px;
+	background: #E6E8EA;
+	text-align: center;
+}
+a
+{
+	color: #B31616;
+	font-weight: bold;
+}
+a:link {
+	}
+a:visited {
+	}
+a:active {
+	}
+a:hover {
+	color: red;
+	}
+h1, h2, h3, h4, h5, h6 {
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+}
+h1 {
+	color: #B31616;
+	font-weight: bold;
+	letter-spacing: -2px;
+	font-size: 2.2em;
+	border-bottom: 1px solid silver;
+	padding-bottom: 5px;
+	}
+h2 {
+	font-size: 1.5em;
+	border-bottom: 1px solid silver;
+	padding-bottom: 3px;
+	clear: both;
+	}
+h3 {
+	font-size: 1.2em;
+	}
+h4 {
+	font-size: 1.1em;
+	}
+h5 {
+	font-size: 1.0em;
+	}
+h6 {
+	font-size: 0.8em;
+	}
+img {
+	border: 0;
+	}
+ol, ul, li {
+	font-size: 1.0em;
+	}
+p, table, tr, td, th {
+	font-size: 1.0em;
+	}
+pre {
+	font-family: Courier New,Courier,monospace;
+	font-size: 1.0em;
+	}
+strong, b {
+	font-weight: bold;
+	}
+table, tr, td {
+	font-size: 1.0em;
+	border-collapse: collapse;
+}
+td, th {
+	border: 1px solid #aaaaaa;
+	border-collapse: collapse;
+	padding: 3px;
+}
+th {
+	background: #3667A8;
+	color: white;
+}
+ol ol {
+	list-style-type: lower-alpha;
+}
+.content {
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 780px;
+	background-color: #FFFFFF;
+	border-left: 1px solid Black;
+	border-right: 1px solid Black;
+	padding: 12px 30px;
+	line-height: 150%;
+}
+.logo {
+	background: #ffffff; 
+	width: 840px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.footer {
+	background: #ffffff; 
+	width: 840px;
+	height: 16px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.logo img {
+	padding-left: 0px;
+	border: none;
+	position: relative;
+	top: -5px;
+}
+* html .content {
+	width: 760px;
+}
+* html .logo, * html .footer {
+	width: 820px;
+}
+.content h1 {
+	margin: 0px;
+}
+h1.hastagline {
+	border: 0;
+}
+h2.tagline {
+	color: #747673;
+	clear: none;
+	margin-top: 0em;
+}
+
+.sold_item{text-decoration:line-through;}
+.sold_tag{color:#B31616;font-weight:bold;}
+
+/*printer styles*/ 
+@media print{ 
+body, .content {margin: 0; padding: 0;}
+.navigation, .locator, .footer a, .message, .footer-links {display:none;} 
+.footer, .content, .header {border: none;}
+a {text-decoration: none; font-weight: normal; color: black;}
+}</style>
+</head>
+<body>
+    <div class="logo">
+    </div>
+    <div class="content">
+        <h1 class="hastagline">
+            Skills USA Project Status</h1>
+         <p>
+           <a href="index.htm">Download</a> 
+        </p>
+        
+         
+        <h2>
+            Change Log</h2>
+        <ul>
+            <li><em>version - release_date</em></li>
+        </ul>
+        <ul>
+            <li>Release 1.0 - March 31, 2011
+            	<ul>
+            		<li>Corrected issue with Microsoft.Jet.OLEDB.4.0 driver that affected null TEAM column values in XML app.</li>
+            	    <li>Added keyboard event controls to Flash presention -  can use keyboard or mouse</li>
+				</ul>
+            </li>
+        	<li>Beta Patch - March 17, 2011
+            	<ul>
+            		<li>Contains only the XML application.</li>
+            	    <li>Modified query to allow display of contestants that do not have a cooresponding category in Sheet1 of the spreadsheet.</li>
+            	    <li>Add prompt to alert user that not all elements of the data file were loaded</li>
+            		<li>Added highlighting to the cell elements where an image file name was not found for the category providing a visual to the user.</li>
+					<li>Most of the missing category/images are naming variations that can be easily corrected by adding/editing the additional category in Sheet1 of the spreadsheet.</li>
+					<li>Some examples include:
+						<ul>
+							<li>Quiz Bowl - Alternate - There was not a Quiz Bowl - ALTERNATE category. Correct by adding the additional category variation to Sheet1 of the spreadsheet and use the same image as the Quiz Bowl</li>
+							<li>HVAC - The previous category was H V A C with spaces. Edit either the categories list(Sheet1) or the the contestants list (Sheet2) to use the same spelling</li>
+							<li>Mansonry - HELPER - The previous category was Masonry - helper.</li>
+						</ul>
+					</li>	
+					<li>O H &amp; S categories do not have an category image and I did not notice one in the previous powerpoint that I could use. Correct this by:
+						<ul>
+							<li> adding each O H &amp; S variation to Sheet1 of the spreadsheet </li>
+							<li> add the image file name(s) that you wish to use </li>
+							<li> Add the image to the <b>_images</b> directory (170w x 170h recommended)</li>
+						</ul>	 
+					</li>
+				</ul>
+            </li>
+            <li>Beta Version - March 11, 2011
+            	<ul>
+            		<li>End user help file created.</li>
+            	    <li>Corrected XML app datagrid resize to window form issue.</li>
+            		<li>Added presentation run event to XML app to allow presentation to be started from one place. (requires flash projector exe)</li>
+					<li>Multi-Level Awards and Prize graphics completed for presentation.</li>
+					<li>Presentation animations completed.</li>
+					<li>Added Team text display to presentation</li>
+					<li>Added dynamic control of student text field font size for multi-student display. Font size reduces as the number of students on the team are increased.</li>
+				</ul>
+            </li>
+        	<li>Alpha Version - March 1, 2011
+            	<ul>
+            		<li>Working XML generator application compiled for .NET 3.5 framework</li>
+					<li>Rough draft of Flash presentation</li>
+					<li>Sample spreadsheet for use as data source.</li>
+				</ul>
+            </li>
+        </ul>
+        
+        <h2>Contact</h2>
+      	<ul>
+      		<li>Email: removed</li>
+    		<li>Phone: removed</li>
+        </ul>
+    </div>
+    <div class="footer">
+   
+    </div>
+</body>
+</html>

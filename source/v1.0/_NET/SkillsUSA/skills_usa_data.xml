@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<slides>
+    <!-- flash runtime xml properties -->
+    <imagePath>images/</imagePath>
+    <navPrevXPos>685</navPrevXPos>
+    <navPrevYPos>550</navPrevYPos>
+    <navNextXPos>710</navNextXPos>
+    <navNextYPos>550</navNextYPos>
+    <categoryImagePosition_X>660</categoryImagePosition_X>
+    <categoryImagePosition_Y>20</categoryImagePosition_Y>
+    <!-- end flash runtime properties -->
+    <slide>
+        <category>Action Skills</category>
+        <school>George County High School</school>
+        <student>Curt Davis</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>action_skills.jpg</image>
+        <id>0</id>
+    </slide>
+    <slide>
+        <category>Advertising Design</category>
+        <school>Clinton High School Career Complex</school>
+        <student>Bogdan Tarnovki &#xD; Brennan Patterson</student>
+        <school_level>S</school_level>
+        <team>123</team>
+        <award />
+        <prize />
+        <image>advertising_design.jpg</image>
+        <id>1</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>A P Fatherree Vocational School</school>
+        <student>Channing McCarty</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>3</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Biloxi High CTC</school>
+        <student>Kelsey Ellis</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>4</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Coahoma Community College </school>
+        <student>Jennifer Price</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>5</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>East Central Community College</school>
+        <student>Hannah Watkins</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>6</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Forrest County High School</school>
+        <student>Brandon Breazeale</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>7</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Harrison County Vo-Tech</school>
+        <student>Pink Floyd</student>
+        <school_level>S</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>8</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Harrison County Vo-Tech</school>
+        <student>Austin Richey &#xD; Fred Bean &#xD; Jesse  James &#xD; Luke Parmer &#xD; Matthew Winstead &#xD; Rebecca Silver</student>
+        <school_level>S</school_level>
+        <team>789</team>
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>9</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Holmes Community College</school>
+        <student>Adam Kelly</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>15</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>MGCCC - Gulfport, MS</school>
+        <student>Trevon Halsey</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>16</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Mississippi Delta Community College</school>
+        <student>Brian Goss</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>17</id>
+    </slide>
+    <slide>
+        <category>Architectural Drafting</category>
+        <school>Northwest MS Community College</school>
+        <student>John David Delk</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>architectural_drafting.jpg</image>
+        <id>18</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>East Central Community College</school>
+        <student>Austin Mather</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>19</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>Golden Triangle Vo-Tech</school>
+        <student>Taylor Watson</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>20</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>Hinds Community College-Utica </school>
+        <student>Timothy Burrell</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>21</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>Jones County Junior College</school>
+        <student>Derek McBride</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>22</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>Mississippi Delta Community College</school>
+        <student>David Monroe</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>23</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>Northwest MS Community College</school>
+        <student>Casey Rowland</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>24</id>
+    </slide>
+    <slide>
+        <category>Automotive Service Technology</category>
+        <school>PRCC - Poplarville</school>
+        <student>Karlton Knight</student>
+        <school_level>PS</school_level>
+        <team />
+        <award />
+        <prize />
+        <image>automotive_service.jpg</image>
+        <id>25</id>
+    </slide>
+</slides>
